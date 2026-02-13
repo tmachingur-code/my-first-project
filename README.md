@@ -1,2 +1,6 @@
-I am learning GitHub step by step.
+\# My First Backend Project
+
+
+
+This repository is for learning backend and Git basics.
 
