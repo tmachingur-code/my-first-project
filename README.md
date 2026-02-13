@@ -1,2 +1,2 @@
-The repository contains my backend learning projects
+l am learning GitHub step by step
 
