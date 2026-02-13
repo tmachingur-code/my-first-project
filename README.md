@@ -1,2 +1,2 @@
-l am learning GitHub step by step
+I am learning GitHub step by step.
 
