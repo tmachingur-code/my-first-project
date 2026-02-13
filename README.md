@@ -1,2 +1,2 @@
-My First GitHub Project
+The repository contains my backend learning projects
 
